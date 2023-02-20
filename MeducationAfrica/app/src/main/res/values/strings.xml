@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meducation Africa</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="treatment">Treatment</string>
+    <string name="profile">Profile</string>
+    <string name="first_aid">First aid</string>
+    <string name="welcome_text">Welcome in Meducation Africa app \n
+     - for writing down your symptoms please click SYMPTOMS \n
+     - for more information on how to treat symptoms click TREATMENT \n
+     - for first aid basic click FIRST AID \n
+     - for entering your profile click PROFILE </string>
+</resources>
